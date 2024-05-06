@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+
+body{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+h3{
+
+    text-align: center;
+    margin-top: 30px;
+}
+#categoryContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    
+}
+
+span{
+
+    font-family: 'Comforter Brush';
+    margin-left: 15px;
+    font-size: 40px;
+    color: rgb(115, 218, 89);
+}
+
+.food-box {
+    cursor: pointer;
+    border: 1px solid white;
+    width: 18rem;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    
+     
+    overflow: hidden;
+}
+
+.food-box img {
+    width: 100%;
+}
+
+.food-box p {
+    position: absolute;
+    font-size: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    width: 100%;
+    font-family: 'Comforter Brush';
+    font-size: 28px;
+    color: yellow;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.food-box:hover p {
+    opacity: 1;
+}
+
+@media (max-width:568px) {
+   
+    .food-box{
+        width: 9rem;
+    }
+    .food-box p{
+        font-size: 16px;
+    }
+}
