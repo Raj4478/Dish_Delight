@@ -30,13 +30,15 @@ Most often, we get into a situation when we want to cook something delicious, ho
 This project is a great platform for people to learn and expand their knowledge in the field of cooking. Moreover, it will help in exploring and spreading the taste of one region worldwide. It will also bring innovation to the art of cooking. Our motivation is not only restricted to these merits but also includes more information about nutrition for respective recipes. Nutrition and health being the most important aspects of one's life are also one of the most neglected areas. This project will also ensure that a user is aware of his/her food intake value and thus plan to explore and make healthier meals.
 
 * This is the homepage that shows different food catogories and we can also search a particular dish.
+  
 ![Screenshot 2024-05-07 174227](https://github.com/Raj4478/Dish_Delight/assets/132039556/5b40386d-327f-4974-b3c6-322f8ef240ce)
 
 * These are the recipes of a particular category(Vegetarian in this case).
 
 ![Screenshot 2024-05-07 174706](https://github.com/Raj4478/Dish_Delight/assets/132039556/a963d276-1788-410d-acc3-f8d3814e3d58)
 
-*This page shows the ingredient,recipe and youtube video of the selected recipe
+*This page shows the ingredient,recipe and youtube video of the selected recipe.
+
 ![Screenshot 2024-05-07 174727](https://github.com/Raj4478/Dish_Delight/assets/132039556/73e19af5-eb1f-43da-bd8c-589cee12a486)
 
 
